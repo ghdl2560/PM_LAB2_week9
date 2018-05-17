@@ -8,7 +8,4 @@ void main() {
 	/* TODO:
 		print your name & student ID 	
 	*/
-	
-	
-
 }
