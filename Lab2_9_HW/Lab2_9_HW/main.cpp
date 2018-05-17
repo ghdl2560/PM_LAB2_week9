@@ -8,7 +8,7 @@ void main() {
 	/* TODO:
 		print your name & student ID 	
 	*/
-	cout << "2017_10730, 고 	
+	cout << "2017_10730, 고
 	
 
 }
